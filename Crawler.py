@@ -24,7 +24,8 @@ def parse(url):
         link = synopsis.find('a')
         imgLink = imageInfo.find('a')['href']
         print('http://www.imdb.com' + imgLink)
-        movieHomePage = urllib.urlopen('http://www.imdb.com' + imgLink)
+        movieLink = 'http://www.imdb.com' + imgLink
+        movieHomePage = urllib.urlopen(movieLink)
         soup = BeautifulSoup(movieHomePage, 'lxml')
         cover_div = soup.find('div', attrs={"class": "poster"})
         cover_url = (cover_div.find('img'))['src']
@@ -46,6 +47,7 @@ def parse(url):
             data['genre'] = genre.split(', ')
             data['imgLink'] = cover_url
             data['rating'] = rating
+            data['link'] = link
             parsed[title] = data
     return parsed
 
