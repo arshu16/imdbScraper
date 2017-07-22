@@ -1,0 +1,756 @@
+{
+    "2016": {
+        "The Conjuring 2": {
+            "genre": [
+                "Horror", 
+                "Mystery", 
+                "Thriller"
+            ], 
+            "rating": 7.4, 
+            "synopsis": "Lorraine and Ed Warren travel to north London to help a single mother raising four children alone in a house plagued by a malicious spirit.", 
+            "link": "http://www.imdb.com/title/tt3065204/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Stranger Things": {
+            "genre": [
+                "Drama", 
+                "Fantasy", 
+                "Horror"
+            ], 
+            "rating": 8.9, 
+            "synopsis": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying forces in order to get him back.", 
+            "link": "http://www.imdb.com/title/tt4574334/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BODI0NjU5NTM0M15BMl5BanBnXkFtZTgwMTc4Mzc4MjI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "A Cure for Wellness": {
+            "genre": [
+                "Drama", 
+                "Fantasy", 
+                "Horror"
+            ], 
+            "rating": 6.4, 
+            "synopsis": "An ambitious young executive is sent to retrieve his company's CEO from an idyllic but mysterious \"wellness center\" at a remote location in the Swiss Alps, but soon suspects that the spa's treatments are not what they seem.", 
+            "link": "http://www.imdb.com/title/tt4731136/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg5Njg1MzIwNl5BMl5BanBnXkFtZTgwNDU1NjczMDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Belko Experiment": {
+            "genre": [
+                "Action", 
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 6.2, 
+            "synopsis": "In a twisted social experiment, 80 Americans are locked in their high-rise corporate office in Bogot\u00e1, Colombia and ordered by an unknown voice coming from the company's intercom system to participate in a deadly game of kill or be killed.", 
+            "link": "http://www.imdb.com/title/tt1082807/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Void": {
+            "genre": [
+                "Horror", 
+                "Mystery", 
+                "Sci-Fi"
+            ], 
+            "rating": 5.8, 
+            "synopsis": "Shortly after delivering a patient to an understaffed hospital, a police officer experiences strange and violent occurrences seemingly linked to a group of mysterious hooded figures.", 
+            "link": "http://www.imdb.com/title/tt4255304/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzU0MzgxMjAtYjU0NC00ZWYyLTljZWUtNTRkNzBhZTYwYzY4XkEyXkFqcGdeQXVyMTM2MzgyOTU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Don't Breathe": {
+            "genre": [
+                "Crime", 
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 7.2, 
+            "synopsis": "Hoping to walk away with a massive fortune, a trio of thieves break into the house of a blind man who isn't as helpless as he seems.", 
+            "link": "http://www.imdb.com/title/tt4160708/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGI5ZTU2M2YtZWY4MC00ZDFhLTliYTItZTk1NjdlN2NkMzg2XkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Split": {
+            "genre": [
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 7.3, 
+            "synopsis": "Three girls are kidnapped by a man with a diagnosed 23 distinct personalities. They must try to escape before the apparent emergence of a frightful new 24th.", 
+            "link": "http://www.imdb.com/title/tt4972582/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTJiNGM2NjItNDRiYy00ZjY0LTgwNTItZDBmZGRlODQ4YThkL2ltYWdlXkEyXkFqcGdeQXVyMjY5ODI4NDk@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Shallows": {
+            "genre": [
+                "Drama", 
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 6.3, 
+            "synopsis": "A mere 200 yards from shore, surfer Nancy is attacked by a great white shark, with her short journey to safety becoming the ultimate contest of wills.", 
+            "link": "http://www.imdb.com/title/tt4052882/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MTA4MzU4Ml5BMl5BanBnXkFtZTgwNjUxNjczODE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Here Alone": {
+            "genre": [
+                "Drama", 
+                "Horror", 
+                "Sci-Fi"
+            ], 
+            "rating": 5.6, 
+            "synopsis": "A young woman struggles to survive on her own in the wake of a mysterious epidemic that has killed much of society, and forced her deep into the unforgiving wilderness.", 
+            "link": "http://www.imdb.com/title/tt4814760/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjE3MzY3YzgtMzNhNy00M2JmLWExYjgtMzhhYTMwYWNlNjM5XkEyXkFqcGdeQXVyMTE3NjEwMjU@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Girl with All the Gifts": {
+            "genre": [
+                "Drama", 
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 6.7, 
+            "synopsis": "A scientist and a teacher living in a dystopian future embark on a journey of survival with a special young girl named Melanie.", 
+            "link": "http://www.imdb.com/title/tt4547056/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQ0NzA4NDcxM15BMl5BanBnXkFtZTgwMTk1NjUzOTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }
+    }, 
+    "2010": {
+        "A Nightmare on Elm Street": {
+            "genre": [
+                "Horror", 
+                "Mystery", 
+                "Thriller"
+            ], 
+            "rating": 5.2, 
+            "synopsis": "The spectre of a dead child rapist haunts the children of the parents who murdered him, stalking and killing them in their dreams.", 
+            "link": "http://www.imdb.com/title/tt1179056/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BODIxMTQ0NTIxM15BMl5BanBnXkFtZTcwMzY1NDAyMw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Legion": {
+            "genre": [
+                "Action", 
+                "Fantasy", 
+                "Horror"
+            ], 
+            "rating": 5.2, 
+            "synopsis": "When a group of strangers at a dusty roadside diner come under attack by demonic forces, their only chance for survival lies with an archangel named Michael, who informs a pregnant waitress that her unborn child is humanity's last hope.", 
+            "link": "http://www.imdb.com/title/tt1038686/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzNDg4NjYxOV5BMl5BanBnXkFtZTcwODQyNDg3Mg@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Srpski film": {
+            "genre": [
+                "Horror", 
+                "Mystery", 
+                "Thriller"
+            ], 
+            "rating": 5.2, 
+            "synopsis": "An aging porn star agrees to participate in an \"art film\" in order to make a clean break from the business, only to discover that he has been drafted into making a pedophilia and necrophilia themed snuff film.", 
+            "link": "http://www.imdb.com/title/tt1273235/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNmEyODc1M2YtZDFiNS00YmQxLWEwY2YtMTQwNTk1NzUyYTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Saw 3D": {
+            "genre": [
+                "Horror", 
+                "Mystery"
+            ], 
+            "rating": 5.6, 
+            "synopsis": "As a deadly battle rages over Jigsaw's brutal legacy, a group of Jigsaw survivors gathers to seek the support of self-help guru and fellow survivor Bobby Dagen, a man whose own dark secrets unleash a new wave of terror.", 
+            "link": "http://www.imdb.com/title/tt1477076/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI0NTEwNTgwNF5BMl5BanBnXkFtZTcwMDM5MTU5Mw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Let Me In": {
+            "genre": [
+                "Drama", 
+                "Horror", 
+                "Mystery"
+            ], 
+            "rating": 7.2, 
+            "synopsis": "A bullied young boy befriends a young female vampire who lives in secrecy with her guardian.", 
+            "link": "http://www.imdb.com/title/tt1228987/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDQ4MjQ4OTMwMF5BMl5BanBnXkFtZTcwOTYzNDc4Mw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Insidious": {
+            "genre": [
+                "Horror", 
+                "Mystery", 
+                "Thriller"
+            ], 
+            "rating": 6.8, 
+            "synopsis": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.", 
+            "link": "http://www.imdb.com/title/tt1591095/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYyOTAxMDA0OF5BMl5BanBnXkFtZTcwNzgwNTc1NA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "I Spit on Your Grave": {
+            "genre": [
+                "Crime", 
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 6.3, 
+            "synopsis": "A writer who is brutalized during her cabin retreat seeks revenge on her attackers, who left her for dead.", 
+            "link": "http://www.imdb.com/title/tt1242432/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTE3NzEzMl5BMl5BanBnXkFtZTcwMzc4MTU2Mw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Piranha 3D": {
+            "genre": [
+                "Comedy", 
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 5.5, 
+            "synopsis": "After a sudden underwater tremor sets free scores of the prehistoric man-eating fish, an unlikely group of strangers must band together to stop themselves from becoming fish food for the area's new razor-toothed residents.", 
+            "link": "http://www.imdb.com/title/tt0464154/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU3NDg2NTY4Nl5BMl5BanBnXkFtZTcwMTM0OTE3Mw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Walking Dead": {
+            "genre": [
+                "Drama", 
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 8.5, 
+            "synopsis": "Sheriff Deputy Rick Grimes wakes up from a coma, to learn the world is in ruins, and must lead a group of survivors to stay alive.", 
+            "link": "http://www.imdb.com/title/tt1520211/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTczMDk1NDYyMV5BMl5BanBnXkFtZTgwNjE1NDU4MDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }
+    }, 
+    "2011": {
+        "Grimm": {
+            "genre": [
+                "Drama", 
+                "Fantasy", 
+                "Horror"
+            ], 
+            "rating": 7.8, 
+            "synopsis": "A homicide detective discovers he is a descendant of hunters who fight supernatural forces.", 
+            "link": "http://www.imdb.com/title/tt1830617/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyODg2MzQwMV5BMl5BanBnXkFtZTgwNTA2MjE1MDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Teen Wolf": {
+            "genre": [
+                "Action", 
+                "Comedy", 
+                "Drama"
+            ], 
+            "rating": 7.7, 
+            "synopsis": "A somewhat awkward teen is attacked by a werewolf and inherits the curse himself, as well as the enemies that come with it.", 
+            "link": "http://www.imdb.com/title/tt1567432/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTEwMzcyMjYwNzNeQTJeQWpwZ15BbWU4MDAwMTU2ODIy._V1_UY268_CR1,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Secret Circle": {
+            "genre": [
+                "Drama", 
+                "Fantasy", 
+                "Horror"
+            ], 
+            "rating": 7.4, 
+            "synopsis": "16 year old Cassie Blake moves to Chance Harbor, Washington to live with her grandmother after her mother mysteriously dies. She discovers she's a witch along with 5 other teens.", 
+            "link": "http://www.imdb.com/title/tt1837654/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3ODM1ODgyMl5BMl5BanBnXkFtZTcwNzA1Njc0Ng@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Final Destination 5": {
+            "genre": [
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 5.9, 
+            "synopsis": "Survivors of a suspension-bridge collapse learn there's no way you can cheat Death.", 
+            "link": "http://www.imdb.com/title/tt1622979/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyOTExNDc1M15BMl5BanBnXkFtZTcwMDA0MTA4NQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Scream 4": {
+            "genre": [
+                "Horror", 
+                "Mystery"
+            ], 
+            "rating": 6.2, 
+            "synopsis": "Ten years have passed, and Sidney Prescott, who has put herself back together thanks in part to her writing, is visited by the Ghostface Killer.", 
+            "link": "http://www.imdb.com/title/tt1262416/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk5OTcxNTUyNF5BMl5BanBnXkFtZTcwMDczMzE0NA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Thing": {
+            "genre": [
+                "Horror", 
+                "Mystery", 
+                "Sci-Fi"
+            ], 
+            "rating": 6.2, 
+            "synopsis": "At an Antarctica research site, the discovery of an alien craft leads to a confrontation between graduate student Kate Lloyd and scientist Dr. Sander Halvorson.", 
+            "link": "http://www.imdb.com/title/tt0905372/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxMjI0MzUyNl5BMl5BanBnXkFtZTcwNjc1NzE5NQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "You're Next": {
+            "genre": [
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 6.5, 
+            "synopsis": "When the Davison family comes under attack during their wedding anniversary getaway, the gang of mysterious killers soon learns that one of the victims harbors a secret talent for fighting back.", 
+            "link": "http://www.imdb.com/title/tt1853739/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwODAxMTE1NF5BMl5BanBnXkFtZTcwNTQ0MjY3OQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "American Horror Story": {
+            "genre": [
+                "Drama", 
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 8.2, 
+            "synopsis": "An anthology series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse and a cult.", 
+            "link": "http://www.imdb.com/title/tt1844624/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI5MTU0NzMzNF5BMl5BanBnXkFtZTgwNjQxNTc5MjI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Fright Night": {
+            "genre": [
+                "Comedy", 
+                "Horror"
+            ], 
+            "rating": 6.4, 
+            "synopsis": "After a new neighbor moved into the house next door, Charley discovers that he is an ancient vampire and goes in search for the help of Peter Vincent, a famous \"vampire killer\" to save his neighborhood from the creature.", 
+            "link": "http://www.imdb.com/title/tt1438176/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2MDc0NDY0M15BMl5BanBnXkFtZTcwOTgzMTYyNQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Being Human": {
+            "genre": [
+                "Drama", 
+                "Fantasy", 
+                "Horror"
+            ], 
+            "rating": 7.5, 
+            "synopsis": "Three twenty-somethings share a house and try to live a normal life despite being a ghost, a werewolf, and a vampire.", 
+            "link": "http://www.imdb.com/title/tt1595680/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4NjU3ODcxOF5BMl5BanBnXkFtZTgwNjY4Mjk5MDE@._V1_UY268_CR12,0,182,268_AL__QL50.jpg"
+        }
+    }, 
+    "2012": {
+        "Underworld Awakening": {
+            "genre": [
+                "Action", 
+                "Fantasy", 
+                "Horror"
+            ], 
+            "rating": 6.4, 
+            "synopsis": "When human forces discover the existence of the Vampire and Lycan clans, a war to eradicate both species commences. The vampire warrior Selene leads the battle against humankind.", 
+            "link": "http://www.imdb.com/title/tt1496025/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAxMjc0ODk0OF5BMl5BanBnXkFtZTcwMTc5NDQwNw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Beauty and the Beast": {
+            "genre": [
+                "Drama", 
+                "Horror", 
+                "Romance"
+            ], 
+            "rating": 7.2, 
+            "synopsis": "A beautiful detective falls in love with an ex-soldier who goes into hiding from the secret government organization that turned him into a mechanically charged beast.", 
+            "link": "http://www.imdb.com/title/tt2193041/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3MzE1ODE4OF5BMl5BanBnXkFtZTcwODI0MTcyOA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Abraham Lincoln: Vampire Hunter": {
+            "genre": [
+                "Action", 
+                "Fantasy", 
+                "Horror"
+            ], 
+            "rating": 5.9, 
+            "synopsis": "Abraham Lincoln, the 16th President of the United States, discovers vampires are planning to take over the United States. He makes it his mission to eliminate them.", 
+            "link": "http://www.imdb.com/title/tt1611224/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjY2Mzc0MDA4NV5BMl5BanBnXkFtZTcwOTg5OTcxNw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Resident Evil: Retribution": {
+            "genre": [
+                "Action", 
+                "Horror", 
+                "Sci-Fi"
+            ], 
+            "rating": 5.4, 
+            "synopsis": "Alice fights alongside a resistance movement to regain her freedom from an Umbrella Corporation testing facility.", 
+            "link": "http://www.imdb.com/title/tt1855325/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA2NTkwNjUxNTZeQTJeQWpwZ15BbWU3MDE2OTMxMTg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Silent Hill: Revelation": {
+            "genre": [
+                "Adventure", 
+                "Drama", 
+                "Horror"
+            ], 
+            "rating": 5.0, 
+            "synopsis": "When her adoptive father disappears, Sharon Da Silva is drawn into a strange and terrifying alternate reality that holds answers to the horrific nightmares that have plagued her since childhood.", 
+            "link": "http://www.imdb.com/title/tt0938330/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4Mjc2NjAyMl5BMl5BanBnXkFtZTcwNzA3MzE2OA@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Would You Rather": {
+            "genre": [
+                "Horror"
+            ], 
+            "rating": 5.8, 
+            "synopsis": "Desperate to help her ailing brother, a young woman unknowingly agrees to compete in a deadly game of \"Would You Rather,\" hosted by a sadistic aristocrat.", 
+            "link": "http://www.imdb.com/title/tt1999995/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTI1ODY3MTQwNl5BMl5BanBnXkFtZTcwMjU5MjMxOQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Sinister": {
+            "genre": [
+                "Horror", 
+                "Mystery"
+            ], 
+            "rating": 6.8, 
+            "synopsis": "Washed-up true-crime writer Ellison Oswalt finds a box of super 8 home movies that suggest the murder he is currently researching is the work of a serial killer whose work dates back to the 1960s.", 
+            "link": "http://www.imdb.com/title/tt1922777/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI5MTg1Njg0Ml5BMl5BanBnXkFtZTcwNzg2Mjc4Nw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Chernobyl Diaries": {
+            "genre": [
+                "Horror", 
+                "Mystery", 
+                "Thriller"
+            ], 
+            "rating": 5.0, 
+            "synopsis": "Six tourists hire an extreme tour guide who takes them to the abandoned city Pripyat, the former home to the workers of the Chernobyl nuclear reactor. During their exploration, they soon discover they are not alone.", 
+            "link": "http://www.imdb.com/title/tt1991245/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzkwNDkyNTUxNV5BMl5BanBnXkFtZTcwODY1NTE3Nw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Cabin in the Woods": {
+            "genre": [
+                "Horror"
+            ], 
+            "rating": 7.0, 
+            "synopsis": "Five friends go for a break at a remote cabin, where they get more than they bargained for, discovering the truth behind the cabin in the woods.", 
+            "link": "http://www.imdb.com/title/tt1259521/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Dark Shadows": {
+            "genre": [
+                "Comedy", 
+                "Fantasy", 
+                "Horror"
+            ], 
+            "rating": 6.2, 
+            "synopsis": "An imprisoned vampire, Barnabas Collins, is set free and returns to his ancestral home, where his dysfunctional descendants are in need of his protection.", 
+            "link": "http://www.imdb.com/title/tt1077368/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjc0NzAyMzI1MF5BMl5BanBnXkFtZTcwMTE0NDQ1Nw@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }
+    }, 
+    "2013": {
+        "The Originals": {
+            "genre": [
+                "Drama", 
+                "Fantasy", 
+                "Horror"
+            ], 
+            "rating": 8.3, 
+            "synopsis": "A family of power-hungry thousand year old vampires look to take back the city that they built and dominate all those who have done them wrong.", 
+            "link": "http://www.imdb.com/title/tt2632424/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3NTcwODMzNF5BMl5BanBnXkFtZTgwNjcxMjI1MTI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Carrie": {
+            "genre": [
+                "Drama", 
+                "Horror"
+            ], 
+            "rating": 5.9, 
+            "synopsis": "A shy girl, outcasted by her peers and sheltered by her religious mother, unleashes telekinetic terror on her small town after being pushed too far at her senior prom.", 
+            "link": "http://www.imdb.com/title/tt1939659/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BODg2MDU2MjYxNl5BMl5BanBnXkFtZTcwMDQ5MzU0OQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Bates Motel": {
+            "genre": [
+                "Drama", 
+                "Horror", 
+                "Mystery"
+            ], 
+            "rating": 8.2, 
+            "synopsis": "A contemporary prequel to Psycho, giving a portrayal of how Norman Bates' psyche unravels through his teenage years, and how deeply intricate his relationship with his mother, Norma, truly is.", 
+            "link": "http://www.imdb.com/title/tt2188671/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTc4ODkwMTk4M15BMl5BanBnXkFtZTgwOTY5MTEyMTI@._V1_UY268_CR9,0,182,268_AL__QL50.jpg"
+        }, 
+        "Hemlock Grove": {
+            "genre": [
+                "Horror", 
+                "Mystery", 
+                "Thriller"
+            ], 
+            "rating": 7.2, 
+            "synopsis": "A teenage girl is brutally murdered, sparking a hunt for her killer. But in a town where everyone hides a secret, will they find the monster among them?", 
+            "link": "http://www.imdb.com/title/tt2309295/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTA5MTg0NDU0OTReQTJeQWpwZ15BbWU4MDg3ODI0ODEx._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Conjuring": {
+            "genre": [
+                "Horror", 
+                "Mystery", 
+                "Thriller"
+            ], 
+            "rating": 7.5, 
+            "synopsis": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.", 
+            "link": "http://www.imdb.com/title/tt1457767/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "World War Z": {
+            "genre": [
+                "Action", 
+                "Adventure", 
+                "Horror"
+            ], 
+            "rating": 7.0, 
+            "synopsis": "Former United Nations employee Gerry Lane traverses the world in a race against time to stop the Zombie pandemic that is toppling armies and governments, and threatening to destroy humanity itself.", 
+            "link": "http://www.imdb.com/title/tt0816711/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg0NTgxMjIxOF5BMl5BanBnXkFtZTcwMDM0MDY1OQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Mortal Instruments: City of Bones": {
+            "genre": [
+                "Action", 
+                "Fantasy", 
+                "Horror"
+            ], 
+            "rating": 5.9, 
+            "synopsis": "When her mother disappears, Clary Fray learns that she descends from a line of warriors who protect our world from demons. She joins forces with others like her and heads into a dangerous alternate New York called the Shadow World.", 
+            "link": "http://www.imdb.com/title/tt1538403/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc5NzAyOTQyNF5BMl5BanBnXkFtZTcwNzQ1MDc4OQ@@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Hannibal": {
+            "genre": [
+                "Crime", 
+                "Drama", 
+                "Horror"
+            ], 
+            "rating": 8.6, 
+            "synopsis": "Explores the early relationship between the renowned psychiatrist and his patient, a young FBI criminal profiler, who is haunted by his ability to empathize with serial killers.", 
+            "link": "http://www.imdb.com/title/tt2243973/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjU1NTgyNjI5OF5BMl5BanBnXkFtZTgwNDgxNDA4NTE@._V1_UY268_CR43,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Green Inferno": {
+            "genre": [
+                "Adventure", 
+                "Horror"
+            ], 
+            "rating": 5.4, 
+            "synopsis": "A group of student activists travels to the Amazon to save the rain forest and soon discover that they are not alone, and that no good deed goes unpunished.", 
+            "link": "http://www.imdb.com/title/tt2403021/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTE0MjgzMjk5MzdeQTJeQWpwZ15BbWU4MDM5OTM1MTYx._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Shingeki no kyojin": {
+            "genre": [
+                "Animation", 
+                "Action", 
+                "Adventure"
+            ], 
+            "rating": 8.8, 
+            "synopsis": "After his hometown is destroyed and his mother is killed, young Eren Jaegar vows to cleanse the earth of the giant humanoid Titans that have brought humanity to the brink of extinction.", 
+            "link": "http://www.imdb.com/title/tt2560140/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5ODk1NzUyMl5BMl5BanBnXkFtZTgwMjUyNzEyMTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }
+    }, 
+    "2014": {
+        "What We Do in the Shadows": {
+            "genre": [
+                "Comedy", 
+                "Horror"
+            ], 
+            "rating": 7.6, 
+            "synopsis": "A documentary team films the lives of a group of vampires for a few months. The vampires share a house in Wellington, New Zealand. Turns out vampires have their own domestic problems too.", 
+            "link": "http://www.imdb.com/title/tt3416742/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAwNDA5NzEwM15BMl5BanBnXkFtZTgwMTA1MDUyNDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Dracula Untold": {
+            "genre": [
+                "Action", 
+                "Drama", 
+                "Fantasy"
+            ], 
+            "rating": 6.3, 
+            "synopsis": "As his kingdom is being threatened by the Turks, young prince Vlad Tepes must become a monster feared by his own people in order to obtain the power needed to protect his own family, and the families of his kingdom.", 
+            "link": "http://www.imdb.com/title/tt0829150/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNzI1OTI4N15BMl5BanBnXkFtZTgwNTQ2NzEwMjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Penny Dreadful": {
+            "genre": [
+                "Drama", 
+                "Fantasy", 
+                "Horror"
+            ], 
+            "rating": 8.2, 
+            "synopsis": "Explorer Sir Malcolm Murray, American gunslinger Ethan Chandler, scientist Victor Frankenstein and medium Vanessa Ives unite to combat supernatural threats in Victorian London.", 
+            "link": "http://www.imdb.com/title/tt2628232/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyOTIwNDI1NF5BMl5BanBnXkFtZTgwNDkxNTQxODE@._V1_UY268_CR7,0,182,268_AL__QL50.jpg"
+        }, 
+        "Clown": {
+            "genre": [
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 5.7, 
+            "synopsis": "A loving father finds a clown suit for his son's birthday party, only to realize that it's cursed.", 
+            "link": "http://www.imdb.com/title/tt1780798/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyNDA1OTMyMl5BMl5BanBnXkFtZTgwNDA5MzgxMzE@._V1_UY268_CR3,0,182,268_AL__QL50.jpg"
+        }, 
+        "Annabelle": {
+            "genre": [
+                "Horror", 
+                "Mystery", 
+                "Thriller"
+            ], 
+            "rating": 5.4, 
+            "synopsis": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.", 
+            "link": "http://www.imdb.com/title/tt3322940/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM2MTYyMzk1OV5BMl5BanBnXkFtZTgwNDg2MjMyMjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "It Follows": {
+            "genre": [
+                "Horror", 
+                "Mystery"
+            ], 
+            "rating": 6.9, 
+            "synopsis": "A young woman is followed by an unknown supernatural force after a sexual encounter.", 
+            "link": "http://www.imdb.com/title/tt3235888/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMmU0MjBlYzYtZWY0MC00MjliLWI3ZmUtMzhlZDVjMWVmYWY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Babadook": {
+            "genre": [
+                "Drama", 
+                "Horror"
+            ], 
+            "rating": 6.8, 
+            "synopsis": "A single mother, plagued by the violent death of her husband, battles with her son's fear of a monster lurking in the house, but soon discovers a sinister presence all around her.", 
+            "link": "http://www.imdb.com/title/tt2321549/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Z Nation": {
+            "genre": [
+                "Action", 
+                "Comedy", 
+                "Drama"
+            ], 
+            "rating": 6.7, 
+            "synopsis": "Three years after the zombie virus has gutted the United States of America a team of everyday heroes must transport the only known survivor of the plague from New York to California, where the last functioning viral lab waits for his blood.", 
+            "link": "http://www.imdb.com/title/tt3843168/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzg0NTE4NjMwN15BMl5BanBnXkFtZTgwOTY3NTc2NjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Strain": {
+            "genre": [
+                "Drama", 
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 7.4, 
+            "synopsis": "A mysterious viral outbreak with hallmarks of an ancient and evil strain of vampirism ravages the city of New York.", 
+            "link": "http://www.imdb.com/title/tt2654620/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNjY2OTMzNF5BMl5BanBnXkFtZTgwMDUxNzY3MjI@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "From Dusk Till Dawn: The Series": {
+            "genre": [
+                "Action", 
+                "Crime", 
+                "Horror"
+            ], 
+            "rating": 7.0, 
+            "synopsis": "A Texas Ranger is in hot pursuit of the infamous Gecko brothers and their hostages. They all end up trapped in a desert bar secretly run by vampires and discover a vampire conspiracy.", 
+            "link": "http://www.imdb.com/title/tt3337194/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MTQxNDYxMV5BMl5BanBnXkFtZTgwNzk0MjkxNjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }
+    }, 
+    "2015": {
+        "iZombie": {
+            "genre": [
+                "Comedy", 
+                "Crime", 
+                "Drama"
+            ], 
+            "rating": 8.0, 
+            "synopsis": "A medical resident finds that being a zombie has its perks, which she uses to assist the police.", 
+            "link": "http://www.imdb.com/title/tt3501584/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU1NDA1NDg4OF5BMl5BanBnXkFtZTgwMzU4MjA4MTI@._V1_UY268_CR16,0,182,268_AL__QL50.jpg"
+        }, 
+        "The VVitch: A New-England Folktale": {
+            "genre": [
+                "Horror", 
+                "Mystery"
+            ], 
+            "rating": 6.8, 
+            "synopsis": "A family in 1630s New England is torn apart by the forces of witchcraft, black magic and possession.", 
+            "link": "http://www.imdb.com/title/tt4263482/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Scream Queens": {
+            "genre": [
+                "Comedy", 
+                "Horror", 
+                "Mystery"
+            ], 
+            "rating": 7.2, 
+            "synopsis": "A semi-anthology series that centers on returning characters being terrorized by a serial killer in different locations, including a university and a hospital.", 
+            "link": "http://www.imdb.com/title/tt4145384/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ5MzU5NTE5NV5BMl5BanBnXkFtZTgwNjE0MzU3NTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Scream: The TV Series": {
+            "genre": [
+                "Crime", 
+                "Drama", 
+                "Horror"
+            ], 
+            "rating": 7.3, 
+            "synopsis": "What starts as a YouTube video going viral soon leads to problems for the teenagers of Lakewood and serves as the catalyst for a serial killer.", 
+            "link": "http://www.imdb.com/title/tt3921180/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNjVmY2M3ZTUtMDhkZC00ODk4LTkwMjktNDRjNGRjYTIxZGZiXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Knock Knock": {
+            "genre": [
+                "Drama", 
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 4.9, 
+            "synopsis": "A devoted father helps two stranded young women who knock on his door, but his kind gesture turns into a dangerous seduction and a deadly game of cat and mouse.", 
+            "link": "http://www.imdb.com/title/tt3605418/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5NTkyMzM1Nl5BMl5BanBnXkFtZTgwODU3Njc2NjE@._V1_UY268_CR5,0,182,268_AL__QL50.jpg"
+        }, 
+        "Crimson Peak": {
+            "genre": [
+                "Drama", 
+                "Fantasy", 
+                "Horror"
+            ], 
+            "rating": 6.5, 
+            "synopsis": "In the aftermath of a family tragedy, an aspiring author is torn between love for her childhood friend and the temptation of a mysterious outsider. Trying to escape the ghosts of her past, she is swept away to a house that breathes, bleeds - and remembers.", 
+            "link": "http://www.imdb.com/title/tt2554274/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTY2OTI5MjAyOV5BMl5BanBnXkFtZTgwNTkzMjQ0NDE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Fortitude": {
+            "genre": [
+                "Drama", 
+                "Horror", 
+                "Mystery"
+            ], 
+            "rating": 7.4, 
+            "synopsis": "Perched on the edge of the Arctic Circle, Fortitude is one of the safest towns on earth. There has never been a violent crime here. Until now.", 
+            "link": "http://www.imdb.com/title/tt3498622/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BNzE1MGNmOGQtYWZkOS00MDExLWIzMjUtYmQxZTFlMzA5YjZhXkEyXkFqcGdeQXVyNjI4OTg2Njg@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "The Visit": {
+            "genre": [
+                "Horror", 
+                "Thriller"
+            ], 
+            "rating": 6.2, 
+            "synopsis": "Two siblings become increasingly frightened by their grandparents' disturbing behavior while visiting them on vacation.", 
+            "link": "http://www.imdb.com/title/tt3567288/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg3OTM2OTc5MV5BMl5BanBnXkFtZTgwMjMxNDM0NTE@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Until Dawn": {
+            "genre": [
+                "Drama", 
+                "Horror", 
+                "Mystery"
+            ], 
+            "rating": 9.1, 
+            "synopsis": "A group of teenagers spend the weekend in a ski lodge on the anniversary of their friends' disappearance, unaware that they are not alone.", 
+            "link": "http://www.imdb.com/title/tt2742544/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTVlYWVmOTYtNGI3OS00YWUyLTlkZDItMDA4ZWZiNjVmZmZmXkEyXkFqcGdeQXVyMjM5NzU3OTM@._V1_UX182_CR0,0,182,268_AL__QL50.jpg"
+        }, 
+        "Fear the Walking Dead": {
+            "genre": [
+                "Drama", 
+                "Horror", 
+                "Sci-Fi"
+            ], 
+            "rating": 7.1, 
+            "synopsis": "A Walking Dead spin-off, set in Los Angeles, following two families who must band together to survive the undead apocalypse.", 
+            "link": "http://www.imdb.com/title/tt3743822/?ref_=adv_li_i", 
+            "imgLink": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjM3ODM2MTUzN15BMl5BanBnXkFtZTgwNzE3NzUwMjI@._V1_UY268_CR3,0,182,268_AL__QL50.jpg"
+        }
+    }
+}
