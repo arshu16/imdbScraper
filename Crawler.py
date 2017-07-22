@@ -47,7 +47,7 @@ def parse(url):
             data['genre'] = genre.split(', ')
             data['imgLink'] = cover_url
             data['rating'] = rating
-            data['link'] = link
+            data['link'] = movieHomePage
             parsed[title] = data
     return parsed
 
