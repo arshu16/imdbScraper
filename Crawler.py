@@ -62,7 +62,7 @@ arguments = sys.argv[1:]
 startYear = int((arguments and arguments[0]) or 2015)  # Start year
 endYear = int((arguments and len(arguments) > 1 and arguments[1]
                ) or datetime.datetime.now().year)  # endyear
-genre = (arguments and arguments[2])
+genre = (arguments and len(arguments) > 2 and arguments[2])
 try:
     for i in range(startYear, endYear + 1):
 
